@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saiprasad-b
-- 👀 I’m interested in FULL STACK DEVELOPER
-- 🌱 I’m currently Studying Bachelor of Technology  
-- 💞️ I’m looking to collaborate on WORKING WITH WEB DEVELOPER  
+- 👀 I’m interested in BACKEND DEVELOPMENT  
+- 💞️ I’m looking to collaborate on WORKING WITH BACKEND DEVELOPMENT 
 
 <!---
 Saiprasad-b/Saiprasad-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
